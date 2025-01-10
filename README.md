@@ -124,6 +124,6 @@ Configure SLA's by navigating to Manage -> SLA
   </p>
   <P>A sample of various help topics.</P>
 
-**This completes our configuration lab. See the Ticket Life Cycle Simulation lab next!**
+**This completes our configuration lab. See the Ticket Lifecycle Simulation lab next!**
 
 
