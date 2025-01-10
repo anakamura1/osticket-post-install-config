@@ -18,7 +18,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
+- 
 - Item 2
 - Item 3
 - Item 4
@@ -99,7 +99,7 @@ Configure another agent and assign this agent the Support role in the Access tab
   </tr>
 </table>
 <p>
-  Configure a few users by navigating to Users -> Add New. 
+  Configure a few users by navigating to Agent Panel -> Users -> Add New. 
 </p>
 <br />
 
@@ -119,14 +119,18 @@ Configure SLA's by navigating to Manage -> SLA
     Configure a few different SLAs with various schedules and grace periods. These will be used in our Ticket Life Cycle lab to determine the urgency of various tickets. 
   </p>
   <br>
+  
+<img height="80%" width="80%" alt="Screenshot 2025-01-09 at 12 41 08 PM" src="https://github.com/user-attachments/assets/424541a1-a478-4258-b481-1b0f9e9e418d" />
+<p> Configure Help Topics by navigating to Manage -> Help Topics. Their priorities and various other items can be configured in the New ticket options tab.
+</p>
 
-**This completes our configuration lab. See the Ticket Life Cycle Simulation lab next!**
-
+<p>Several help topics can be created.</p>
   <p>
     <img height="80%" width="80%" alt="Screenshot 2025-01-09 at 12 48 32 PM" src="https://github.com/user-attachments/assets/7cbcf56e-496e-45a1-ab14-1dd33439d0a0" />
 
   </p>
-  <P>A sample of various SLAs.</P>
+  <P>A sample of various help topics.</P>
 
+**This completes our configuration lab. See the Ticket Life Cycle Simulation lab next!**
 
 
